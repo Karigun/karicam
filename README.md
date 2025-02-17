@@ -16,4 +16,6 @@
 
 🤖Logging all actions in log files 
 
+## Shot
 
+![]([/screenshots/Screenshot_20221216_015844.png](https://raw.githubusercontent.com/Karigun/karicam/refs/heads/main/photo43.jpg))
