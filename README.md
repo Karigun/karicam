@@ -18,4 +18,4 @@
 
 ## Shot
 
-![](https://raw.githubusercontent.com/Karigun/karicam/refs/heads/main/photo43.jpg))
+![](https://raw.githubusercontent.com/Karigun/karicam/refs/heads/main/photo43.jpg)
